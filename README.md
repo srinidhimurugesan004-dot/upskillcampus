@@ -1,4 +1,4 @@
-##Smart IoT-Based Theft Detection and Alert System
+## Smart IoT-Based Theft Detection and Alert System
 
 ## Overview
 This project is an IoT-based theft detection system developed using ESP32 and PIR motion sensor.
