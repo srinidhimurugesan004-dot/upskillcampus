@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-/* WiFi Credentials */
+
 const char* ssid = "GALAXY A23";
 const char* password = "12345678";
 
